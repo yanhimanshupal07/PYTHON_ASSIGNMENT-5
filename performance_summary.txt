@@ -1,0 +1,14 @@
+Performance Summary Report
+=========================
+Total students: 4
+Class Average (Avg of student averages): 77.75
+
+Top performers:
+- 23BCA004 | Priya Singh : Avg 95.67
+- 23BCA002 | Nisha Sharma : Avg 88.00
+- 23BCA001 | Aman Kumar : Avg 77.00
+
+Bottom performers:
+- 23BCA002 | Nisha Sharma : Avg 88.00
+- 23BCA001 | Aman Kumar : Avg 77.00
+- 23BCA003 | Ravi Verma : Avg 50.33
